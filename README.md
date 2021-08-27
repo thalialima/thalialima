@@ -2,10 +2,8 @@
 
 - 🔭 I’m currently working on Back-End;
 - 🌱 I’m currently learning Spring and Spring Boot;
-- 💬 Ask me about Java;
 - 📫 My LinkedIn: www.linkedin.com/in/irene-lima;
 - 😄 Pronouns: She / Her;
-- ⚡ Fun fact: “Truth is stranger than fiction...". Mark Twain.
 
  <div>
   <a href="https://github.com/thalialima">
