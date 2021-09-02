@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Back-End;
 - 🌱 I’m currently learning Spring and Spring Boot;
 - 📫 My LinkedIn: www.linkedin.com/in/irene-lima;
-- 😄 Pronouns: She / Her;
+- 😄 Pronouns: She / Her.
 
  <div>
   <a href="https://github.com/thalialima">
