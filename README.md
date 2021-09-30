@@ -1,7 +1,7 @@
 ### Hi, I'm Thalia 👋
 
 - 🔭 I’m currently working on Back-End;
-- 🌱 I’m currently learning Spring and Spring Boot;
+- 🌱 I’m currently learning Spring;
 - 📫 My LinkedIn: www.linkedin.com/in/irene-lima;
 - 😄 Pronouns: She / Her.
 
