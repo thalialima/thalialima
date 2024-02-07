@@ -1,9 +1,7 @@
 ### Hi, I'm Thalia 👋
 
 - 🔭 I’m currently working as Back-End Developer;
-- 🌱 I’m currently learning Spring and Hybris;
 - 📫 My LinkedIn: www.linkedin.com/in/irene-lima;
-- 😄 Pronouns: She / Her.
 
  <div>
   <a href="https://github.com/thalialima">
